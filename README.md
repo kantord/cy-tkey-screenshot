@@ -48,7 +48,7 @@ This command will look at the elements on your page, find any translation keys a
 
 For this to work, your elements need to have the `data-tkey` [data attribute](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes#HTML_syntax):
 
-```
+```html
 <h1 data-tkey="landingpage.header.title">Hello World!</h1>
 ```
 
